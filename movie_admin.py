@@ -13,8 +13,8 @@ from mysql.connector import Error
 DB_CONFIG = {
     "host": "localhost",
     "user": "root",
-    "password": "4567",
-    "database": "movie_theatre"
+    "password": "your_mysql_password",
+    "database": "DatabaseName"
 }
 # -----------------------------------------------------------------------
 
